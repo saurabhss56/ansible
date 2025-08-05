@@ -1,0 +1,7 @@
+*.key
+*.pem
+*.pub
+id_rsa
+yes
+*.crt
+
